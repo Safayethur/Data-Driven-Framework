@@ -71,7 +71,7 @@
       <recent name="C:\Users\SChowdhury\Documents\Code\Edureka-DataDriven-Framework" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/SChowdhury/Documents/Code/Edureka-DataDriven-Framework/testng-parallel.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/SChowdhury/Documents/Code/Edureka-DataDriven-Framework/testng-sequence.xml">
     <configuration name="BasicValidation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Edureka-DataDriven-Framework" />
       <extension name="coverage">
@@ -138,8 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/SChowdhury/Documents/Code/Edureka-DataDriven-Framework/testng-parallel.xml" />
         <item itemvalue="TestNG.C:/Users/SChowdhury/Documents/Code/Edureka-DataDriven-Framework/testng-sequence.xml" />
+        <item itemvalue="TestNG.C:/Users/SChowdhury/Documents/Code/Edureka-DataDriven-Framework/testng-parallel.xml" />
         <item itemvalue="TestNG.C:/Users/SChowdhury/Documents/Code/Edureka-DataDriven-Framework/testng.xml" />
         <item itemvalue="TestNG.BasicValidation" />
         <item itemvalue="TestNG.LoginTest" />
